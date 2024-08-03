@@ -1,0 +1,19 @@
+WELCOME TO MY PROJECT
+
+Steps to open project
+1.open the folder in vscode 
+2.write pip install -r requirement.txt in terminal and press enter 
+3.write python main.py in terminal and press enter 
+4.Play the game
+
+How To Play
+press :
+a for left 
+s for bottom 
+d for right
+w for top
+q for face
+e for back
+
+
+NOTE: The cube ,texture and 3d model are use from StanishlavPetrovV github 
