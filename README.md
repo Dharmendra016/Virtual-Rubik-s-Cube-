@@ -13,10 +13,11 @@ This is a very interesting 3D Rubik's Cube simulator, where you can scramble and
 Steps to run project
 
 ```bash
-1.open the folder in vscode 
-2.write `pip install -r requirement.txt` in terminal and press enter 
-3.write `python main.py` in terminal and press enter 
-4.Play the game
+1.Clone this project in you pc
+2.open the folder in vscode 
+3.write `pip install -r requirement.txt` in terminal and press enter 
+4.write `python main.py` in terminal and press enter 
+5.Play the game
 ```
     
 ## Tech Stack
