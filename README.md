@@ -15,7 +15,7 @@ Steps to run project
 ```bash
 1.open the folder in vscode 
 2.write `pip install -r requirement.txt` in terminal and press enter 
-3.write python main.py in terminal and press enter 
+3.write `python main.py` in terminal and press enter 
 4.Play the game
 ```
     
